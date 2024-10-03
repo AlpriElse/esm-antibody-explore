@@ -1,0 +1,9 @@
+.venv
+ANARCI
+ANARCI/*
+mmseqs/
+mmseqs/*
+data/all-nano-structures/*
+data/all_nano_structures.zip
+data/anarci-out/*
+data/mmseqs-out/*
